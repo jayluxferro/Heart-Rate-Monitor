@@ -15,7 +15,7 @@ All you have to do is open the HeartRateMonitor App and then hold the tip of you
 After a second or two, you should see the Android icon on the top of the screen start to flash red when it senses a heart beat. After ten seconds it will compute your heart rate and update the number next to the Android icon. It'll take between ten and thirty seconds to get an accurate heart rate.
 
 ## Acknowledgement
-A big thank you to **Justin Wetherell** for writing the the first version of this application.
+A big thank you to **Justin Wetherell** for writing ``v1.0`` of this application.
 * Google: http://code.google.com/p/android-heart-rate-monitor
 * Github: http://github.com/phishman3579/android-heart-rate-monitor
 * LinkedIn: http://www.linkedin.com/in/phishman3579
